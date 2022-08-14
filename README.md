@@ -1,2 +1,2 @@
-# Tomistong.github.io
+# Tomistong.github.com
 my_Firsttry
